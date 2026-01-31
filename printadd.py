@@ -10,5 +10,8 @@ def traverse():
   for item in lst:
     print(item, end=' ')
 
-print_add()
-traverse()
+def all_in():
+   print_add()
+   traverse()
+
+all_in()
