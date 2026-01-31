@@ -1,6 +1,6 @@
 
 from CMD: PUSH (send)
-* make changesv locally
+* make changes locally
 * git status
 * git add file.py OR git add .
 * git commit -m "short message"
