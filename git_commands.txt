@@ -1,0 +1,13 @@
+
+from CMD: PUSH (send)
+* make changesv locally
+* git status
+* git add file.py OR git add .
+* git commit -m "short message"
+* git push origin main
+
+
+from CMD: PULL (take)
+* make changes in GitHub
+* git status (On branch main)
+* git pull origin main
