@@ -10,8 +10,12 @@ def traverse():
   for item in lst:
     print(item, end=' ')
 
+def f_string():
+  return f"\nI'm happy because I'm learning Git"
+
 def all_in():
    print_add()
    traverse()
+   print(f_string())
 
 all_in()
