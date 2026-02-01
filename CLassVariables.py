@@ -14,7 +14,7 @@ roger = Dog("Tsopanoskylo")
 
 print(roger.animal)
 
-roger.setColor("red")
+roger.setColor("brown")
 color = roger.getColor()
 print(color)
 print(roger.breed)
